@@ -1,0 +1,2 @@
+You MUST Compile The Project "SFX SRC" Into "Win32.sfx" Make sure it is WIN32.SFX not WIN32.SFX.EXE
+the file WIN32.sfx must be located in this directory 
